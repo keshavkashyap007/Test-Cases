@@ -7,7 +7,6 @@ Created with the perspective of a QA Engineer , this test suite ensures full fun
 
 📄 What This Repository Contains
 1. Adani_Green_Energy_Test_Cases.xlsx
-- <a href= "https://github.com/keshavkashyap007/Test-Cases/blob/main/Adani_Green_Energy_Test_Cases.xlsx">
 
 A structured Excel file with 50 detailed test cases, each containing:
 
@@ -26,43 +25,32 @@ Serve as a portfolio reference for manual QA, automation engineers, or SDET role
 ✔ Functional Testing
 
 Navigation links
-
 Page load validation
-
 Form behavior
-
 Download functions (PDF/Reports)
-
 Social media redirections
 
 ✔ UI/UX Testing
 
 Layout consistency
-
 Branding validation
-
 Font, color, and spacing checks
-
 Responsive behavior
 
 ✔ Compatibility Testing
 
 Cross-browser support
-
 Mobile and tablet responsiveness
 
 ✔ Content & Compliance Testing
 
 Sustainability claims
-
 Corporate governance documentation
-
 Legal/Privacy policies
 
 ✔ Performance & Security Basics
 
 HTTPS / SSL verification
-
 Basic page responsiveness
 
 📁 File Structure
@@ -77,27 +65,17 @@ Clone or download this repository.
 Open the .xlsx file in Microsoft Excel (or Google Sheets).
 
 Use it for:
-
 Manual Testing
-
 Automation Preparation
-
 QA Portfolio
-
 Test Planning & Documentation
 
 🤝 Contributions
 
-Feel free to contribute by adding:
-
-More test cases
-
+Feel free to contribute by adding: More test cases
 Automation scripts (Selenium, Playwright, Cypress, etc.)
-
 Bug reports found during testing
-
 Additional documentation
-
 Pull requests are welcome!
 
 📬 Contact
@@ -105,15 +83,10 @@ Pull requests are welcome!
 If you need help creating more test artifacts:
 
 Test Plans
-
 Test Strategy
-
 Traceability Matrix
-
 Defect Reports
-
 API Test Cases
-
 Automation Test Framework
 
 Just open an issue or reach out!
