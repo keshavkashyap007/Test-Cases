@@ -3,7 +3,7 @@
 This repository contains a complete, industry-standard test case suite for the official Adani Green Energy website:
 🔗 https://www.adanigreenenergy.com/
 
-Created with the perspective of a QA Engineer with 20+ years of experience, this test suite ensures full functional, UI, performance, usability, and content validation coverage of the website.
+Created with the perspective of a QA Engineer , this test suite ensures full functional, UI, performance, usability, and content validation coverage of the website.
 
 📄 What This Repository Contains
 1. Adani_Green_Energy_Test_Cases.xlsx
