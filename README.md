@@ -7,58 +7,20 @@ Created with the perspective of a QA Engineer , this test suite ensures full fun
 
 📄 What This Repository Contains
 1. Adani_Green_Energy_Test_Cases.xlsx
+- <a href= "https://github.com/keshavkashyap007/Test-Cases/blob/main/Adani_Green_Energy_Test_Cases.xlsx">
 
 A structured Excel file with 50 detailed test cases, each containing:
 
-Test Case ID
-
-Description
-
-Preconditions
-
-Test Steps
-
-Input Data
-
-Expected Result
-
-Actual Result
-
-Test Environment
+Test Case ID, Description, Preconditions, Test Steps, Input Data, Expected Result, Actual Result, Test Environment
 
 These test cases cover every major feature of the website, including:
-
-Homepage & Navigation
-
-About Us
-
-ESG / Sustainability
-
-Investor Relations
-
-Governance Documents
-
-Media & Press Releases
-
-Solar / Wind / Hybrid Projects
-
-Careers & Culture (#HeroesAtWork)
-
-Reports, PDFs, Downloads
-
-Accessibility, Mobile Responsiveness, Security (SSL)
+Homepage & Navigation, About Us, ESG / Sustainability, Investor Relations, Governance Documents, Media & Press Releases, Solar / Wind / Hybrid Projects, Careers & Culture (#HeroesAtWork), Reports, PDFs, Downloads, Accessibility, Mobile Responsiveness, Security (SSL)
 
 🎯 Purpose of This Test Suite
 
-This repository aims to:
-
-Provide a complete quality assurance reference for anyone testing the Adani Green Energy website.
-
+This repository aims to: Provide a complete quality assurance reference for anyone testing the Adani Green Energy website.
 Demonstrate a professional testing approach with clear structure, coverage, and reliability.
-
-Serve as a portfolio reference for manual QA, automation engineers, or SDET roles.
-
-Help teams ensure site reliability, content accuracy, and user experience quality.
+Serve as a portfolio reference for manual QA, automation engineers, or SDET roles. Help teams ensure site reliability, content accuracy, and user experience quality.
 
 🧪 Test Coverage Areas
 ✔ Functional Testing
